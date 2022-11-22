@@ -2,7 +2,7 @@
 
 Repositório do minicurso do github realizado na semana de ciência e tecnologia
 
-[Link repositorio](https://github.com/lilianhteixeira)
+* [Link repositorio](https://github.com/lilianhteixeira)
 
 * [Link do slide](https://docs.google.com/presentation/d/18gN5vaL9NutgynF7gZLPr4JNafyLcd-BXf3GWZPNuQM/edit#slide=id.gf8ff70054e_1_230)
 
@@ -20,7 +20,7 @@ Repositório do minicurso do github realizado na semana de ciência e tecnologia
 
 * [Gráfico das contribuições](https://ashutosh00710.github.io/github-readme-activity-graph/)
 
-
+<!--
 
 ### Hi there 👋
 
@@ -34,7 +34,7 @@ No meu tempo livre adoro ler livros(:books:), ouvir música(:notes:), assistir s
 - :mailbox_with_mail: - lilianhteixeira@gmail.com
 - ![LinkedIn logo](https://user-images.githubusercontent.com/46824593/87449039-0754f100-c5d3-11ea-9eeb-4d10d71febae.png) - https://www.linkedin.com/in/lilianhteixeira/
 
-<!--
+
 ## Oi eu sou a Lílian Teixeira, Tech Architecture da XP Investimentos, e apaixonada por Python !
 <div align="center">
   <a href="https://github.com/lilianhteixeira">
@@ -50,13 +50,13 @@ No meu tempo livre adoro ler livros(:books:), ouvir música(:notes:), assistir s
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
- <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
+ <!-- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> 
 </div>
   
   ##
  
 <div> 
-  <!-- <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> --> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/lilianhteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lilianhteixeira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lilianhteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -98,13 +98,13 @@ Here are some ideas to get you started:
  
  <!-- gráfico das contribuições --> 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lilianhteixeira&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+
 <!-- badges, com trofeu --> 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lilianhteixeira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> 
 
  <!-- redes sociais e profissional -->
- 
 <div align="center"> 
 <a href="https://instagram.com/lilianhteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

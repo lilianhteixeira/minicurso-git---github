@@ -2,6 +2,8 @@
 
 Repositório do minicurso do github realizado na semana de ciência e tecnologia
 
+[Link repositorio](https://github.com/lilianhteixeira)
+
 * [Link do slide](https://docs.google.com/presentation/d/18gN5vaL9NutgynF7gZLPr4JNafyLcd-BXf3GWZPNuQM/edit#slide=id.gf8ff70054e_1_230)
 
 * [Link do quiz](https://www.fyrebox.com/play/pnj29wxxjyqyd9dlgm)

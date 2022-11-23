@@ -1,6 +1,12 @@
 # Minicurso Git & Github
 
-Repositório do minicurso do github realizado na semana de ciência e tecnologia
+Repositório do minicurso do github realizado na Semana de Ciência e Tecnologia IFPB (22-24 de novembro de 2022).
+
+## Objetivo
+O minicurso tem como objetivo ensinar os principais comando de Git e como usar o Github, auxiliando na criação da conta do Github dos participantes e na personalização do README para o seu perfil do Github.  
+
+
+### Links de referência
 
 * [Link repositorio](https://github.com/lilianhteixeira)
 
@@ -10,7 +16,7 @@ Repositório do minicurso do github realizado na semana de ciência e tecnologia
 
 * [Guia básico de Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
- * [Github Stats](https://github.com/anuraghazra/github-readme-stats)
+* [Github Stats](https://github.com/anuraghazra/github-readme-stats)
 
 * [Emojis](https://emojipedia.org/pt/cora%C3%A7%C3%A3o-brilhante/)
 
@@ -34,6 +40,8 @@ No meu tempo livre adoro ler livros(:books:), ouvir música(:notes:), assistir s
 - :mailbox_with_mail: - lilianhteixeira@gmail.com
 - ![LinkedIn logo](https://user-images.githubusercontent.com/46824593/87449039-0754f100-c5d3-11ea-9eeb-4d10d71febae.png) - https://www.linkedin.com/in/lilianhteixeira/
 
+
+## Exemplo de README para o seu perfil do GitHub
 
 ## Oi eu sou a Lílian Teixeira, Tech Architecture da XP Investimentos, e apaixonada por Python !
 <div align="center">
@@ -107,24 +115,26 @@ Here are some ideas to get you started:
  <!-- redes sociais e profissional -->
 <div align="center"> 
 <a href="https://instagram.com/lilianhteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:lilianhteixeira@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lilianhteixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div> 
  
  <!-- minhas habilidades -->
  ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS]( 	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 <!-- estudando no momento -->
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; 
-
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
